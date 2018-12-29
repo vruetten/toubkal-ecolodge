@@ -8,7 +8,7 @@ header:
 breadcrumb: true
 ---
 ### Email:
-toubkalecolodge@gmail.co.uk
+[mailto](mailto:toubkalecolodge@gmail.co.uk)
 ### Telephone:
 #+212 661 962 844  
 
