@@ -45,7 +45,7 @@ improve_content: https://github.com/vrutten/toubkal-ecolodge/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/vrutten/toubkal-ecolodge/images/'
+urlimg: 'https://vrutten.github.io/toubkal-ecolodge/images/'
 
 
 # urlimg: 'http://localhost:4000/images/'
