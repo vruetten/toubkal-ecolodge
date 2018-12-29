@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:4000/assets/xslt/rss.xslt" ?>
-<?xml-stylesheet type="text/css" href="http://localhost:4000/assets/css/rss.css" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:4000/toubkal-ecolodge//assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="http://localhost:4000/toubkal-ecolodge//assets/css/rss.css" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Riad Toubkal Ecolodge</title>
 		<description>Welcome to Riad Toubkal Ecolodge.</description>
-		<link>http://localhost:4000/</link>
-		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000/toubkal-ecolodge//</link>
+		<atom:link href="http://localhost:4000/toubkal-ecolodge//feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Trekking</title>
-				<link>http://localhost:4000/activities/trekking/</link>
+				<link>http://localhost:4000/toubkal-ecolodge//activities/trekking/</link>
 				<pubDate>Sat, 29 Dec 2018 00:00:00 +0100</pubDate>
 				<description>&lt;p&gt;Trekking information.&lt;/p&gt;
 
@@ -26,12 +26,12 @@
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/activities/trekking/</guid>
+				<guid isPermaLink="true">http://localhost:4000/toubkal-ecolodge//activities/trekking/</guid>
 			</item>
 		
 			<item>
 				<title>Mule Hikes</title>
-				<link>http://localhost:4000/activities/hikes/</link>
+				<link>http://localhost:4000/toubkal-ecolodge//activities/hikes/</link>
 				<pubDate>Fri, 28 Dec 2018 00:00:00 +0100</pubDate>
 				<description>&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
 
@@ -45,12 +45,12 @@
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/activities/hikes/</guid>
+				<guid isPermaLink="true">http://localhost:4000/toubkal-ecolodge//activities/hikes/</guid>
 			</item>
 		
 			<item>
 				<title>Gallery</title>
-				<link>http://localhost:4000/gallery/</link>
+				<link>http://localhost:4000/toubkal-ecolodge//gallery/</link>
 				<pubDate>Thu, 27 Dec 2018 00:00:00 +0100</pubDate>
 				<description>&lt;!-- You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% include gallery %}`.
 &lt;!--more--&gt;
@@ -62,42 +62,42 @@
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-0.jpg&quot;&gt;&lt;img data-caption=&quot;view from Toubkal Ecolodge&quot; src=&quot;http://localhost:4000/images/gallery-example-0-thumb.jpg&quot; alt=&quot;view from Toubkal Ecolodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-0.jpg&quot;&gt;&lt;img data-caption=&quot;view from Toubkal Ecolodge&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-0-thumb.jpg&quot; alt=&quot;view from Toubkal Ecolodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;view from EcoLodge&quot; src=&quot;http://localhost:4000/images/gallery-example-2-thumb.jpg&quot; alt=&quot;view from EcoLodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;view from EcoLodge&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-2-thumb.jpg&quot; alt=&quot;view from EcoLodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 	&lt;/ul&gt;
 &lt;/div&gt;
@@ -157,12 +157,12 @@ Add the include whereever you want in your content with `{% include gallery %}`.
 &lt;/ul&gt;
 
 </description>
-				<guid isPermaLink="true">http://localhost:4000/gallery/</guid>
+				<guid isPermaLink="true">http://localhost:4000/toubkal-ecolodge//gallery/</guid>
 			</item>
 		
 			<item>
 				<title>See us in action</title>
-				<link>http://localhost:4000/extras/video/</link>
+				<link>http://localhost:4000/toubkal-ecolodge//extras/video/</link>
 				<pubDate>Wed, 26 Dec 2018 00:00:00 +0100</pubDate>
 				<description>&lt;!--more--&gt;
 
@@ -174,7 +174,7 @@ Add the include whereever you want in your content with `{% include gallery %}`.
 
 &lt;p&gt;Source: &lt;a href=&quot;https://www.tripadvisor.com/Attraction_Review-g488109-d2343667-Reviews-Atlas_Morocco-Imlil_Marrakech_Tensift_El_Haouz_Region.html&quot;&gt;Trip Advisor&lt;/a&gt;&lt;/p&gt;
 </description>
-				<guid isPermaLink="true">http://localhost:4000/extras/video/</guid>
+				<guid isPermaLink="true">http://localhost:4000/toubkal-ecolodge//extras/video/</guid>
 			</item>
 		
 	</channel>
