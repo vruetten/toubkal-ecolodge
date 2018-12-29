@@ -5,7 +5,7 @@
 
 - name: TripAdvisor
   url: https://www.tripadvisor.com/Attraction_Review-g488109-d2343667-Reviews-Atlas_Morocco-Imlil_Marrakech_Tensift_El_Haouz_Region.html
-  class: icon-soundcloud
+  class: icon-mail
   title: "trip advisor"
 
 
