@@ -11,7 +11,7 @@ widget1:
   title: "Accommodation"
   url: '/accommodation/'
   image: widget-1-302x182.jpg
-  text: 'Located in the heart of the valley, come here for a perfect escape and experience a life in nature like never before'
+  text: 'Located in the heart of the valley, come here for a perfect escape and experience a life in nature like never before.'
 widget2:
   title: "Activities"
   url: '/activities/'
@@ -44,8 +44,6 @@ permalink: /index.html
 #
 homepage: true
 breadcrumb: true
-redirect_from: ''
-redirect_from: '/test2/'
 ---
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">

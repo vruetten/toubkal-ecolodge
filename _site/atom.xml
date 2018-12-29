@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="/feeling-responsive/assets/xslt/atom.xslt" ?>
-<?xml-stylesheet type="text/css" href="/feeling-responsive/assets/css/atom.css" ?>
+<?xml-stylesheet type="text/xsl" href="/toubkal-ecolodge/assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="/toubkal-ecolodge/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>http://localhost:4000/feeling-responsive/</id>
+	<id>http://localhost:4000/toubkal-ecolodge/</id>
 	<title>Riad Toubkal Ecolodge</title>
-	<updated>2018-12-29T11:47:44+01:00</updated>
+	<updated>2018-12-29T13:06:22+01:00</updated>
 
 	<subtitle>Welcome to Riad Toubkal Ecolodge.</subtitle>
 
@@ -19,16 +19,16 @@
 		</author>
 	
 
-	<link href="http://localhost:4000/feeling-responsive/atom.xml" rel="self" type="application/rss+xml" />
-	<link href="http://localhost:4000/feeling-responsive/" rel="alternate" type="text/html" />
+	<link href="http://localhost:4000/toubkal-ecolodge/atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000/toubkal-ecolodge/" rel="alternate" type="text/html" />
 
 	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
 
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/activities/trekking/</id>
+			<id>http://localhost:4000/toubkal-ecolodge/activities/trekking/</id>
 			<title>Trekking</title>
-			<link href="http://localhost:4000/feeling-responsive/activities/trekking/" rel="alternate" type="text/html" title="Trekking" />
+			<link href="http://localhost:4000/toubkal-ecolodge/activities/trekking/" rel="alternate" type="text/html" title="Trekking" />
 			<updated>2018-12-29T00:00:00+01:00</updated>
 
 			
@@ -42,21 +42,14 @@
 				</author>
 			
 			<summary>Discover.</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/activities/trekking/">&lt;p&gt;&lt;em&gt;Feeling Responsive&lt;/em&gt; shows metadata by default. The default behaviour can be changed via &lt;code class=&quot;highlighter-rouge&quot;&gt;config.yml&lt;/code&gt;. To show metadata at the end of a page/post just add the following to front matter:
-&lt;!--more--&gt;&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/toubkal-ecolodge/activities/trekking/">&lt;p&gt;Trekking information.&lt;/p&gt;
 
-&lt;p&gt;If you don’t want to show metadata, it’s simple again:&lt;/p&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+&lt;h2 class=&quot;t60&quot; id=&quot;other-adventures-to-explore&quot;&gt;Other adventures to explore:&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/trekking/&quot;&gt;Actvities &amp;middot; &lt;strong&gt;Trekking&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/hikes/&quot;&gt;&lt;strong&gt;Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -65,19 +58,19 @@
 </content>
 
 			
-				<category term="design" />
+				<category term="activities" />
 			
 			
-				<category term="post format" />
+				<category term="activities" />
 			
 
 			<published>2018-12-29T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/activities/hikes/</id>
+			<id>http://localhost:4000/toubkal-ecolodge/activities/hikes/</id>
 			<title>Mule Hikes</title>
-			<link href="http://localhost:4000/feeling-responsive/activities/hikes/" rel="alternate" type="text/html" title="Mule Hikes" />
+			<link href="http://localhost:4000/toubkal-ecolodge/activities/hikes/" rel="alternate" type="text/html" title="Mule Hikes" />
 			<updated>2018-12-28T00:00:00+01:00</updated>
 
 			
@@ -91,16 +84,12 @@
 				</author>
 			
 			<summary>Enjoy the scenery</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/activities/hikes/">&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+			<content type="html" xml:base="http://localhost:4000/toubkal-ecolodge/activities/hikes/">&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/trekking/&quot;&gt;Actvities &amp;middot; &lt;strong&gt;Trekking&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/hikes/&quot;&gt;&lt;strong&gt;Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -109,19 +98,19 @@
 </content>
 
 			
-				<category term="design" />
+				<category term="activities" />
 			
 			
-				<category term="post format" />
+				<category term="activities" />
 			
 
 			<published>2018-12-28T00:00:00+01:00</published>
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/gallery/</id>
+			<id>http://localhost:4000/toubkal-ecolodge/gallery/</id>
 			<title>Gallery</title>
-			<link href="http://localhost:4000/feeling-responsive/gallery/" rel="alternate" type="text/html" title="Gallery" />
+			<link href="http://localhost:4000/toubkal-ecolodge/gallery/" rel="alternate" type="text/html" title="Gallery" />
 			<updated>2018-12-27T00:00:00+01:00</updated>
 
 			
@@ -135,7 +124,7 @@
 				</author>
 			
 			<summary>A glimpse of what awaits you</summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/gallery/">&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/feeling-responsive/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;gallery&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;.
+			<content type="html" xml:base="http://localhost:4000/toubkal-ecolodge/gallery/">&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/toubkal-ecolodge/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/toubkal-ecolodge/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;gallery&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;.
 &lt;!--more--&gt;&lt;/p&gt;
 
 &lt;div&gt;
@@ -144,42 +133,42 @@
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-1.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-1-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-1.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-1-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-2-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-2-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://phlow.github.io/feeling-responsive/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;https://vrutten.github.io/toubkal-ecolodge/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 	&lt;/ul&gt;
 &lt;/div&gt;
@@ -228,10 +217,6 @@
   
 
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/trekking/&quot;&gt;Actvities &amp;middot; &lt;strong&gt;Trekking&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/hikes/&quot;&gt;&lt;strong&gt;Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
 
   
 &lt;/ul&gt;
@@ -247,9 +232,9 @@
 		</entry>
 	
 		<entry>
-			<id>http://localhost:4000/feeling-responsive/extras/video/</id>
+			<id>http://localhost:4000/toubkal-ecolodge/extras/video/</id>
 			<title>See us in action</title>
-			<link href="http://localhost:4000/feeling-responsive/extras/video/" rel="alternate" type="text/html" title="See us in action" />
+			<link href="http://localhost:4000/toubkal-ecolodge/extras/video/" rel="alternate" type="text/html" title="See us in action" />
 			<updated>2018-12-26T00:00:00+01:00</updated>
 
 			
@@ -263,7 +248,7 @@
 				</author>
 			
 			<summary></summary>
-			<content type="html" xml:base="http://localhost:4000/feeling-responsive/extras/video/">&lt;!--more--&gt;
+			<content type="html" xml:base="http://localhost:4000/toubkal-ecolodge/extras/video/">&lt;!--more--&gt;
 
 &lt;h2 id=&quot;about-this-video&quot;&gt;About this video&lt;/h2&gt;
 

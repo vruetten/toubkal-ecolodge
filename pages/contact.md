@@ -1,16 +1,16 @@
 ---
 layout: page
 title: "Get in touch"
-teaser: "If you have any queries, don't hesitate to contact us"
+teaser: "If you have any queries or wish to give us feedback, don't hesitate to contact us"
 permalink: "/contact/"
 header:
    image_fullwidth: "header_roadmap_2.jpg"
 breadcrumb: true
 ---
 ### Email:
-[mailto](mailto:toubkalecolodge@gmail.co.uk)
+[toubkalecolodge@gmail.co.uk](mailto:toubkalecolodge@gmail.co.uk)
 ### Telephone:
-#+212 661 962 844  
++212 661 962 844  
 
 ### or send us a direct message:
 <form name="sentMessage" id="contactForm" novalidate>

@@ -40,7 +40,26 @@ body.video cite a, { color: #fff; }
 body.video cite a:visited, { color: #fff; }
 body.video cite { color: #fff; }
 
+/* My layouts
+------------------------------------------------------------------- */
 
+#box {
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: left;
+    // border: 1px solid magenta;
+    line-height: 100px;
+    position: relative;
+    right: 120px;
+}
+#box2 {
+    width: 300px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 100px;
+}
 
 /* Navigation
 ------------------------------------------------------------------- */

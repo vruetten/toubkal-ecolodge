@@ -10,11 +10,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>RSS Feed (Styled)</title>
 
-    <link rel="stylesheet" type="text/css" href="http://localhost:4000/feeling-responsive/assets/css/styles_feeling_responsive.css">
+    <link rel="stylesheet" type="text/css" href="http://localhost:4000/toubkal-ecolodge/assets/css/styles_feeling_responsive.css">
 
   
 
-	<script src="http://localhost:4000/feeling-responsive/assets/js/modernizr.min.js"></script>
+	<script src="http://localhost:4000/toubkal-ecolodge/assets/js/modernizr.min.js"></script>
 
 	<script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
 	<script>
@@ -38,13 +38,13 @@
 	<link rel="author" href="https://plus.google.com/u/0/118311555303973066167">
 	
 	
-	<link rel="canonical" href="http://localhost:4000/feeling-responsive/assets/xslt/rss.xslt">
+	<link rel="canonical" href="http://localhost:4000/toubkal-ecolodge/assets/xslt/rss.xslt">
 
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
 	<meta property="og:description" content="Welcome to Riad Toubkal Ecolodge.">
-	<meta property="og:url" content="http://localhost:4000/feeling-responsive/assets/xslt/rss.xslt">
+	<meta property="og:url" content="http://localhost:4000/toubkal-ecolodge/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
 	<meta property="og:site_name" content="Riad Toubkal Ecolodge">
@@ -62,34 +62,34 @@
 	
 	
 
-	<link type="text/plain" rel="author" href="http://localhost:4000/feeling-responsive/humans.txt">
+	<link type="text/plain" rel="author" href="http://localhost:4000/toubkal-ecolodge/humans.txt">
 
 	
 
 	
 
-	<link rel="icon" sizes="32x32" href="http://localhost:4000/feeling-responsive/assets/img/favicon-32x32.png">
+	<link rel="icon" sizes="32x32" href="http://localhost:4000/toubkal-ecolodge/assets/img/favicon-32x32.png">
 
-	<link rel="icon" sizes="192x192" href="http://localhost:4000/feeling-responsive/assets/img/touch-icon-192x192.png">
+	<link rel="icon" sizes="192x192" href="http://localhost:4000/toubkal-ecolodge/assets/img/touch-icon-192x192.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-180x180-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-180x180-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-152x152-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-144x144-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-120x120-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-114x114-precomposed.png">
 
 	
-	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-76x76-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-72x72-precomposed.png">
 
-	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/feeling-responsive/assets/img/apple-touch-icon-precomposed.png">	
+	<link rel="apple-touch-icon-precomposed" href="http://localhost:4000/toubkal-ecolodge/assets/img/apple-touch-icon-precomposed.png">	
 
-	<meta name="msapplication-TileImage" content="http://localhost:4000/feeling-responsive/assets/img/msapplication_tileimage.png">
+	<meta name="msapplication-TileImage" content="http://localhost:4000/toubkal-ecolodge/assets/img/msapplication_tileimage.png">
 
 	<meta name="msapplication-TileColor" content="#fabb00">
 
@@ -105,7 +105,7 @@
   <nav class="top-bar" role="navigation" data-topbar>
     <ul class="title-area">
       <li class="name">
-      <h1 class="show-for-small-only"><a href="http://localhost:4000/feeling-responsive" class="icon-tree"> Riad Toubkal Ecolodge</a></h1>
+      <h1 class="show-for-small-only"><a href="http://localhost:4000/toubkal-ecolodge" class="icon-tree"> Riad Toubkal Ecolodge</a></h1>
     </li>
        <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
       <li class="toggle-topbar menu-icon"><a href="#"><span>Nav</span></a></li>
@@ -152,7 +152,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/feeling-responsive/location/">Location</a></li>
+              <li><a  href="http://localhost:4000/toubkal-ecolodge/location/">Location</a></li>
 
             
             
@@ -166,7 +166,7 @@
             
             
               <li class="divider"></li>
-              <li><a  href="http://localhost:4000/feeling-responsive/contact/">Contact</a></li>
+              <li><a  href="http://localhost:4000/toubkal-ecolodge/contact/">Contact</a></li>
 
             
             
@@ -185,7 +185,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/feeling-responsive/">Home</a></li>
+              <li><a  href="http://localhost:4000/toubkal-ecolodge/">Home</a></li>
               <li class="divider"></li>
 
             
@@ -200,7 +200,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/feeling-responsive/accommodation/">Accommodation</a></li>
+              <li><a  href="http://localhost:4000/toubkal-ecolodge/accommodation/">Accommodation</a></li>
               <li class="divider"></li>
 
             
@@ -217,19 +217,19 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/feeling-responsive/activities/">Activities</a>
+                <a  href="http://localhost:4000/toubkal-ecolodge/activities/">Activities</a>
 
                   <ul class="dropdown">
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/activities/trekking/">Trekking</a></li>
+                      <li><a  href="http://localhost:4000/toubkal-ecolodge/activities/trekking/">Trekking</a></li>
                     
 
                       
 
-                      <li><a  href="http://localhost:4000/feeling-responsive/activities/hikes/">mule hikes</a></li>
+                      <li><a  href="http://localhost:4000/toubkal-ecolodge/activities/hikes/">mule hikes</a></li>
                     
                   </ul>
 
@@ -246,7 +246,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/feeling-responsive/gallery/">Gallery</a></li>
+              <li><a  href="http://localhost:4000/toubkal-ecolodge/gallery/">Gallery</a></li>
               <li class="divider"></li>
 
             
@@ -261,7 +261,7 @@
 
             
             
-              <li><a  href="http://localhost:4000/feeling-responsive/about_us/">About us</a></li>
+              <li><a  href="http://localhost:4000/toubkal-ecolodge/about_us/">About us</a></li>
               <li class="divider"></li>
 
             
@@ -291,8 +291,8 @@
 <div id="masthead-no-image-header">
 	<div class="row">
 		<div class="small-12 columns">
-			<a id="logo" href="http://localhost:4000/feeling-responsive/" title="Riad Toubkal Ecolodge – Where adventure begins">
-				<img src="http://localhost:4000/feeling-responsive/assets/img/logo.png" alt="Riad Toubkal Ecolodge – Where adventure begins">
+			<a id="logo" href="http://localhost:4000/toubkal-ecolodge/" title="Riad Toubkal Ecolodge – Where adventure begins">
+				<img src="http://localhost:4000/toubkal-ecolodge/assets/img/logo.png" alt="Riad Toubkal Ecolodge – Where adventure begins">
 			</a>
 		</div><!-- /.small-12.columns -->
 	</div><!-- /.row -->
@@ -370,7 +370,7 @@
 
             <p class="shadow-black">
               Welcome to Riad Toubkal Ecolodge.
-              <a href="http://localhost:4000/feeling-responsive/info/">More ›</a>
+              <a href="http://localhost:4000/toubkal-ecolodge/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -390,12 +390,12 @@
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive"  title=""></a>
+                    <a href="http://localhost:4000/toubkal-ecolodge"  title=""></a>
                   </li>
               
                 
                   <li >
-                    <a href="http://localhost:4000/feeling-responsive/contact/"  title="Contact">Contact</a>
+                    <a href="http://localhost:4000/toubkal-ecolodge/contact/"  title="Contact">Contact</a>
                   </li>
               
                 
@@ -422,7 +422,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/feeling-responsive"  title=""></a>
+                  <a href="http://localhost:4000/toubkal-ecolodge"  title=""></a>
                 </li>
             
               
@@ -432,7 +432,7 @@
             
               
                 <li >
-                  <a href="http://localhost:4000/feeling-responsive"  title="Images by Rachid">Images by Rachid</a>
+                  <a href="http://github.com/vrutten" target="_blank"  title="Images by Rachid">Images by Rachid</a>
                 </li>
             
             </ul>
@@ -445,7 +445,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="https://github.com/vrutten">Virginia Rutten</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; by <a href="https://github.com/vrutten">Virginia Rutten</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://vrutten.github.io/toubkal-ecolodge/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
@@ -464,7 +464,7 @@
 		
 
 
-<script src="http://localhost:4000/feeling-responsive/assets/js/javascript.min.js"></script>
+<script src="http://localhost:4000/toubkal-ecolodge/assets/js/javascript.min.js"></script>
 
 
 

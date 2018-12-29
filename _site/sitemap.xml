@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 18 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 19 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/accommodation/</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/accommodation/</loc>
 	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -20,43 +20,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/404.html</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/404.html</loc>
 	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/atom.xml</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/contact/</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -69,114 +35,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/feed.xml</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/activities/archive/</loc>
 	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/humans.txt</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/activities/</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/about_us/</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/location/</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/test1/</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/feeling-responsive/robots.txt</loc>
-	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -190,12 +51,166 @@
 	
 
 	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/atom.xml</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/sitemap.xml</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/contact/</loc>
 	
-		<lastmod>2018-12-29T11:47:44+01:00</lastmod>
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/feed.xml</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/humans.txt</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/activities/</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/about_us/</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/location/</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/test1/</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/robots.txt</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/toubkal-ecolodge/sitemap.xml</loc>
+	
+		<lastmod>2018-12-29T13:06:22+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -213,7 +228,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/activities/trekking/</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/activities/trekking/</loc>
 	
 		<lastmod>2018-12-29T00:00:00+01:00</lastmod>
 	
@@ -228,7 +243,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/activities/hikes/</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/activities/hikes/</loc>
 	
 		<lastmod>2018-12-28T00:00:00+01:00</lastmod>
 	
@@ -243,7 +258,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/gallery/</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/gallery/</loc>
 	
 		<lastmod>2018-12-27T00:00:00+01:00</lastmod>
 	
@@ -258,7 +273,7 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/feeling-responsive/extras/video/</loc>
+	<loc>http://localhost:4000/toubkal-ecolodge/extras/video/</loc>
 	
 		<lastmod>2018-12-26T00:00:00+01:00</lastmod>
 	
