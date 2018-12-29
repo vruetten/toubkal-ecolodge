@@ -190,7 +190,7 @@ og_type:                            'website'
 #
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
-plugins:
+plugins_dir:
   - jekyll-redirect-from
 
 socialmedia:

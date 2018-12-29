@@ -45,6 +45,7 @@ permalink: /index.html
 homepage: true
 breadcrumb: true
 redirect_from: ''
+redirect_from: '/test2/'
 ---
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">

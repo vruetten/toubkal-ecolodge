@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/feeling-responsive/</id>
 	<title>Riad Toubkal Ecolodge</title>
-	<updated>2018-12-29T11:31:29+01:00</updated>
+	<updated>2018-12-29T11:47:44+01:00</updated>
 
 	<subtitle>Welcome to Riad Toubkal Ecolodge.</subtitle>
 
@@ -58,10 +58,6 @@
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/hikes/&quot;&gt;&lt;strong&gt;Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/gallery/&quot;&gt;&lt;strong&gt;Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/extras/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
 
   
 &lt;/ul&gt;
@@ -105,10 +101,6 @@
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/trekking/&quot;&gt;Actvities &amp;middot; &lt;strong&gt;Trekking&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/hikes/&quot;&gt;&lt;strong&gt;Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/gallery/&quot;&gt;&lt;strong&gt;Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/extras/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -240,10 +232,6 @@
     
       &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/activities/hikes/&quot;&gt;&lt;strong&gt;Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/gallery/&quot;&gt;&lt;strong&gt;Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/feeling-responsive/extras/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
 
   
 &lt;/ul&gt;
@@ -251,10 +239,8 @@
 </content>
 
 			
-				<category term="design" />
+				<category term="photos" />
 			
-			
-				<category term="post format" />
 			
 
 			<published>2018-12-27T00:00:00+01:00</published>
@@ -262,8 +248,8 @@
 	
 		<entry>
 			<id>http://localhost:4000/feeling-responsive/extras/video/</id>
-			<title>Video Template</title>
-			<link href="http://localhost:4000/feeling-responsive/extras/video/" rel="alternate" type="text/html" title="Video Template" />
+			<title>See us in action</title>
+			<link href="http://localhost:4000/feeling-responsive/extras/video/" rel="alternate" type="text/html" title="See us in action" />
 			<updated>2018-12-26T00:00:00+01:00</updated>
 
 			
@@ -276,23 +262,21 @@
 					
 				</author>
 			
-			<summary>If you want to show videos in a large manner, the video template is the right choice.</summary>
+			<summary></summary>
 			<content type="html" xml:base="http://localhost:4000/feeling-responsive/extras/video/">&lt;!--more--&gt;
 
-&lt;h2 id=&quot;about-the-video-by-kutiman&quot;&gt;About the video by Kutiman&lt;/h2&gt;
+&lt;h2 id=&quot;about-this-video&quot;&gt;About this video&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Ophir Kutiel, professionally known as Kutiman, is an Israeli musician, composer, producer and animator. He is best known for creating the online music video project, ThruYOU, and a self-titled album. &lt;cite&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Kutiman&quot;&gt;Wikipedia&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+  &lt;p&gt;Some nice quote. &lt;cite&gt;&lt;a href=&quot;https://www.tripadvisor.com/Attraction_Review-g488109-d2343667-Reviews-Atlas_Morocco-Imlil_Marrakech_Tensift_El_Haouz_Region.html&quot;&gt;Alex&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Source: &lt;a href=&quot;https://www.youtube.com/watch?v=WoHxoz_0ykI&quot;&gt;Kutiman – Thru You Too – »Give It Up«&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Source: &lt;a href=&quot;https://www.tripadvisor.com/Attraction_Review-g488109-d2343667-Reviews-Atlas_Morocco-Imlil_Marrakech_Tensift_El_Haouz_Region.html&quot;&gt;Trip Advisor&lt;/a&gt;&lt;/p&gt;
 </content>
 
 			
 				<category term="extras" />
 			
-			
-				<category term="post format" />
 			
 
 			<published>2018-12-26T00:00:00+01:00</published>
