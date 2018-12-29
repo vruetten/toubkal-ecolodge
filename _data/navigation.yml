@@ -2,57 +2,33 @@
   url: "/"
   side: left
 
-
 - title: "Accommodation"
-  url: "/"
+  url: "/accommodation/"
   side: left
-  dropdown:
-  - title: "Rooms"
-    url: "/accommodation/rooms/"
-  - title: "Services"
-    url: "/accommodation/services/"
-
-  # - title: "Page/Post"
-  #   url: "/accommodation/page/"
-  # - title: "Post-Left-Sidebar"
-  #   url: "/accommodation/post-left-sidebar/"
-  # - title: "Post-Right-Sidebar"
-  #   url: "/accommodation/post-right-sidebar/"
-  # - title: "Page Full-Width"
-  #   url: "/accommodation/page-fullwidth/"
-  # - title: "Blog-Page"
-  #   url: "/blog/"
-  # - title: "Video"
-  #   url: "/accommodation/video/"
-  # - title: "Gallery"
-  #   url: "/accommodation/gallery/"
-  # - title: "Portfolio"
-  #   url: "/accommodation/portfolio/"
 
 - title: "Activities"
-  url: "/"
+  url: "/activities/"
   side: left
   dropdown:
   - title: "Trekking"
     url: "/activities/trekking/"
   - title: "mule hikes"
     url: "/activities/hikes/"
-  - title: "other"
-    url: "/activities/other/"
 
 - title: "Gallery"
   url: "/gallery/"
   side: left
-
 
 - title: About us
   url: "/about_us/"
   side: left
 
 
-# - title: "Search"
-#   url: "/search/"
-#   side: right
+
+
+- title: "Location"
+  url: "/location/"
+  side: right
 
 - title: "Contact"
   url: "/contact/"

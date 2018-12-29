@@ -67,7 +67,7 @@ markdown: kramdown
 permalink: /:categories/:title/
 highlight: rouge
 excerpt_separator: "<!--more-->"
-include: ['.htaccess']
+include: ['.htaccess','_pages']
 # Exclude these files from your production _site
 exclude:
     - .sass-cache
@@ -190,6 +190,8 @@ og_type:                            'website'
 #
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
+plugins:
+  - jekyll-redirect-from
 
 socialmedia:
     twitter: RachidTour

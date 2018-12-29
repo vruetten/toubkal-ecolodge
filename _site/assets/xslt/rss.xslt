@@ -31,7 +31,7 @@
 
 
 	<!-- Search Engine Optimization -->
-	<meta name="description" content="Welcome to »Riad Toubkal Ecolodge«. Join us for..">
+	<meta name="description" content="Welcome to Riad Toubkal Ecolodge.">
 	<meta name="google-site-verification" content="Vk0IOJ2jwG_qEoG7fuEXYqv0m2rLa8P778Fi_GrsgEQ">
 	<meta name="msvalidate.01" content="0FB4C028ABCF07C908C54386ABD2D97F" >
 	
@@ -43,7 +43,7 @@
 
 	<!-- Facebook Open Graph -->
 	<meta property="og:title" content="RSS Feed (Styled)">
-	<meta property="og:description" content="Welcome to »Riad Toubkal Ecolodge«. Join us for..">
+	<meta property="og:description" content="Welcome to Riad Toubkal Ecolodge.">
 	<meta property="og:url" content="http://localhost:4000/feeling-responsive/assets/xslt/rss.xslt">
 	<meta property="og:locale" content="en_EN">
 	<meta property="og:type" content="website">
@@ -58,7 +58,7 @@
 	<meta name="twitter:site" content="RachidTour">
 	<meta name="twitter:creator" content="RachidTour">
 	<meta name="twitter:title" content="RSS Feed (Styled)">
-	<meta name="twitter:description" content="Welcome to »Riad Toubkal Ecolodge«. Join us for..">
+	<meta name="twitter:description" content="Welcome to Riad Toubkal Ecolodge.">
 	
 	
 
@@ -152,6 +152,20 @@
             
             
               <li class="divider"></li>
+              <li><a  href="http://localhost:4000/feeling-responsive/location/">Location</a></li>
+
+            
+            
+          
+        
+
+              
+
+          
+          
+            
+            
+              <li class="divider"></li>
               <li><a  href="http://localhost:4000/feeling-responsive/contact/">Contact</a></li>
 
             
@@ -186,26 +200,10 @@
 
             
             
-
-              <li class="has-dropdown">
-                <a  href="http://localhost:4000/feeling-responsive/">Accommodation</a>
-
-                  <ul class="dropdown">
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/feeling-responsive/accommodation/rooms/">Rooms</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/feeling-responsive/accommodation/services/">Services</a></li>
-                    
-                  </ul>
-
-              </li>
+              <li><a  href="http://localhost:4000/feeling-responsive/accommodation/">Accommodation</a></li>
               <li class="divider"></li>
+
+            
             
           
         
@@ -219,7 +217,7 @@
             
 
               <li class="has-dropdown">
-                <a  href="http://localhost:4000/feeling-responsive/">Activities</a>
+                <a  href="http://localhost:4000/feeling-responsive/activities/">Activities</a>
 
                   <ul class="dropdown">
                     
@@ -232,11 +230,6 @@
                       
 
                       <li><a  href="http://localhost:4000/feeling-responsive/activities/hikes/">mule hikes</a></li>
-                    
-
-                      
-
-                      <li><a  href="http://localhost:4000/feeling-responsive/activities/other/">other</a></li>
                     
                   </ul>
 
@@ -273,6 +266,12 @@
 
             
             
+          
+        
+
+              
+
+          
           
         
 
@@ -370,7 +369,7 @@
             <h5 class="shadow-black">About This Site</h5>
 
             <p class="shadow-black">
-              Welcome to »Riad Toubkal Ecolodge«. Join us for..
+              Welcome to Riad Toubkal Ecolodge.
               <a href="http://localhost:4000/feeling-responsive/info/">More ›</a>
             </p>
           </div><!-- /.large-6.columns -->
@@ -446,7 +445,7 @@
       <div id="subfooter">
         <nav class="row">
           <section id="subfooter-left" class="small-12 medium-6 columns credits">
-            <p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
+            <p>Created with &hearts; by <a href="https://github.com/vrutten">Virginia Rutten</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> based on <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>
           </section>
 
           <section id="subfooter-right" class="small-12 medium-6 columns">
