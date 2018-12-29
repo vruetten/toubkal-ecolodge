@@ -30,7 +30,6 @@ email: gin.rutten@gmail.com
 url: 'https://vrutten.github.io'
 baseurl: '/toubkal-ecolodge'
 
-
 # url: 		'http://localhost:4000'
 # baseurl: 	''
 # urlimg: 	'http://localhost:4000/images/'
@@ -47,6 +46,8 @@ improve_content: https://github.com/vrutten/toubkal-ecolodge/edit/gh-pages
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://github.com/vrutten/toubkal-ecolodge/images/'
+
+
 # urlimg: 'http://localhost:4000/images/'
 
 # Logo size is 600x80 pixels
