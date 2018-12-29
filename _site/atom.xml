@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Riad Toubkal Ecolodge</title>
-	<updated>2018-12-29T17:20:43+01:00</updated>
+	<updated>2018-12-29T18:08:44+01:00</updated>
 
 	<subtitle>Welcome to Riad Toubkal Ecolodge.</subtitle>
 
@@ -124,8 +124,9 @@
 				</author>
 			
 			<summary>A glimpse of what awaits you</summary>
-			<content type="html" xml:base="http://localhost:4000/gallery/">&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/design/page-fullwidth/&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then just use &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;gallery&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;.
-&lt;!--more--&gt;&lt;/p&gt;
+			<content type="html" xml:base="http://localhost:4000/gallery/">&lt;!-- You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% include gallery %}`.
+&lt;!--more--&gt;
+&lt;p&gt;–&amp;gt;&lt;/p&gt;
 
 &lt;div&gt;
 	&lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
@@ -133,12 +134,12 @@
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-1.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-1-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-0.jpg&quot;&gt;&lt;img data-caption=&quot;view from Toubkal Ecolodge&quot; src=&quot;http://localhost:4000/images/gallery-example-0-thumb.jpg&quot; alt=&quot;view from Toubkal Ecolodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-2-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;view from EcoLodge&quot; src=&quot;http://localhost:4000/images/gallery-example-2-thumb.jpg&quot; alt=&quot;view from EcoLodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
@@ -173,44 +174,50 @@
 	&lt;/ul&gt;
 &lt;/div&gt;
 
-&lt;h2 id=&quot;how-to-embed-a-gallery&quot;&gt;How to embed a gallery&lt;/h2&gt;
+&lt;!--
+## How to embed a gallery
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;gallery&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt; lets you easily embed a gallery into your post. To use the gallery-include…&lt;/p&gt;
+`{% include gallery %}` lets you easily embed a gallery into your post. To use the gallery-include... --&gt;
 
-&lt;h3 id=&quot;step-1&quot;&gt;Step 1&lt;/h3&gt;
+&lt;!--
+### Step 1
 
-&lt;ol&gt;
-  &lt;li&gt;Make two images: a thumbnail and a big image.&lt;/li&gt;
-  &lt;li&gt;Name the thumbnail &lt;em&gt;gallery-image-thumb.jpg&lt;/em&gt; and…&lt;/li&gt;
-  &lt;li&gt;…name the big &lt;em&gt;gallery-image.jpg&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;Place them in the &lt;em&gt;images&lt;/em&gt;-folder.&lt;/li&gt;
-&lt;/ol&gt;
+1. Make two images: a thumbnail and a big image.
+2. Name the thumbnail *gallery-image-thumb.jpg* and...
+3. ...name the big *gallery-image.jpg*.
+4. Place them in the *images*-folder.
 
-&lt;h3 id=&quot;step-2&quot;&gt;Step 2&lt;/h3&gt;
 
-&lt;p&gt;Define the big version in frontmatter,&lt;/p&gt;
+### Step 2
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gallery:
+Define the big version in frontmatter,   --&gt;
+
+&lt;!-- ~~~
+gallery:
     - image_url: gallery-image.jpg
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+~~~ --&gt;
+&lt;!--
+If you like captions, give each image a caption:
 
-&lt;p&gt;If you like captions, give each image a caption:&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gallery:
+~~~
+gallery:
     - image_url: gallery-image.jpg
        caption: Starting Page with huge One Logo
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
+~~~ --&gt;
 
-&lt;h3 id=&quot;step-3&quot;&gt;Step 3&lt;/h3&gt;
+&lt;!-- ### Step 3
 
-&lt;p&gt;Add the include whereever you want in your content with &lt;code class=&quot;highlighter-rouge&quot;&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;include&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;gallery&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;err&quot;&gt;%&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;/code&gt;.&lt;/p&gt;
+Add the include whereever you want in your content with `{% include gallery %}`. --&gt;
+
+&lt;!-- 
+
 
 &lt;div class=&quot;alert-box info &quot;&gt;&lt;p&gt;Have a look at this example-entry. And have a look into the images-folder. :)&lt;/p&gt;
 &lt;/div&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+ --&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-posts-you-might-like&quot;&gt;Other posts you might like&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 

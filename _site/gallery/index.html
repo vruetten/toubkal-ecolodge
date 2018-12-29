@@ -336,8 +336,9 @@
 			
 
 			<div itemprop="articleSection">
-			<p>You just need to choose a template like the <a href="http://localhost:4000/design/page/"><code class="highlighter-rouge">page</code></a>- or <a href="http://localhost:4000/design/page-fullwidth/"><code class="highlighter-rouge">page-fullwidth</code></a>-template and then just use <code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">gallery</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code>.
-<!--more--></p>
+			<!-- You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% include gallery %}`.
+<!--more-->
+<p>–&gt;</p>
 
 <div>
 	<ul class="clearing-thumbs small-block-grid-4" data-clearing="">
@@ -345,12 +346,12 @@
 		
 		
 		
-		<li><a href="http://localhost:4000/images/gallery-example-1.jpg"><img data-caption="Great images by Unsplash.com" src="http://localhost:4000/images/gallery-example-1-thumb.jpg" alt="Great images by Unsplash.com" /></a></li>
+		<li><a href="http://localhost:4000/images/gallery-example-0.jpg"><img data-caption="view from Toubkal Ecolodge" src="http://localhost:4000/images/gallery-example-0-thumb.jpg" alt="view from Toubkal Ecolodge" /></a></li>
 		
 		
 		
 		
-		<li><a href="http://localhost:4000/images/gallery-example-2.jpg"><img data-caption="Great images by Unsplash.com" src="http://localhost:4000/images/gallery-example-2-thumb.jpg" alt="Great images by Unsplash.com" /></a></li>
+		<li><a href="http://localhost:4000/images/gallery-example-2.jpg"><img data-caption="view from EcoLodge" src="http://localhost:4000/images/gallery-example-2-thumb.jpg" alt="view from EcoLodge" /></a></li>
 		
 		
 		
@@ -385,44 +386,50 @@
 	</ul>
 </div>
 
-<h2 id="how-to-embed-a-gallery">How to embed a gallery</h2>
+<!--
+## How to embed a gallery
 
-<p><code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">gallery</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code> lets you easily embed a gallery into your post. To use the gallery-include…</p>
+`{% include gallery %}` lets you easily embed a gallery into your post. To use the gallery-include... -->
 
-<h3 id="step-1">Step 1</h3>
+<!--
+### Step 1
 
-<ol>
-  <li>Make two images: a thumbnail and a big image.</li>
-  <li>Name the thumbnail <em>gallery-image-thumb.jpg</em> and…</li>
-  <li>…name the big <em>gallery-image.jpg</em>.</li>
-  <li>Place them in the <em>images</em>-folder.</li>
-</ol>
+1. Make two images: a thumbnail and a big image.
+2. Name the thumbnail *gallery-image-thumb.jpg* and...
+3. ...name the big *gallery-image.jpg*.
+4. Place them in the *images*-folder.
 
-<h3 id="step-2">Step 2</h3>
 
-<p>Define the big version in frontmatter,</p>
+### Step 2
 
-<div class="highlighter-rouge"><pre class="highlight"><code>gallery:
+Define the big version in frontmatter,   -->
+
+<!-- ~~~
+gallery:
     - image_url: gallery-image.jpg
-</code></pre>
-</div>
+~~~ -->
+<!--
+If you like captions, give each image a caption:
 
-<p>If you like captions, give each image a caption:</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>gallery:
+~~~
+gallery:
     - image_url: gallery-image.jpg
        caption: Starting Page with huge One Logo
-</code></pre>
-</div>
+~~~ -->
 
-<h3 id="step-3">Step 3</h3>
+<!-- ### Step 3
 
-<p>Add the include whereever you want in your content with <code class="highlighter-rouge"><span class="p">{</span><span class="err">%</span><span class="w"> </span><span class="err">include</span><span class="w"> </span><span class="err">gallery</span><span class="w"> </span><span class="err">%</span><span class="p">}</span></code>.</p>
+Add the include whereever you want in your content with `{% include gallery %}`. -->
+
+<!-- 
+
 
 <div class="alert-box info "><p>Have a look at this example-entry. And have a look into the images-folder. :)</p>
 </div>
 
-<h2 class="t60" id="other-post-formats">Other Post Formats</h2>
+ -->
+
+<h2 class="t60" id="other-posts-you-might-like">Other posts you might like</h2>
 
 <ul class="side-nav">
 
@@ -458,7 +465,7 @@
 				
 				<div class="small-5 columns"><a class="button small radius prev" href="http://localhost:4000/extras/video/">&laquo; See us in action</a></div><!-- /.small-4.columns -->
 				
-				<div class="small-2 columns text-center"><a class="radius button small" href="http://localhost:4000/blog/archive/" title="Blog Archive">Archive</a></div><!-- /.small-4.columns -->
+				<div class="small-2 columns text-center"><a class="radius button small" href="http://localhost:4000/" title="Blog Home">Home</a></div><!-- /.small-4.columns -->
 				
 				<div class="small-5 columns text-right"><a class="button small radius next" href="http://localhost:4000/activities/hikes/">Mule Hikes &raquo;</a></div><!-- /.small-4.columns -->
 				
@@ -496,7 +503,7 @@
 
             <p class="shadow-black">
               Welcome to Riad Toubkal Ecolodge.
-              <a href="http://localhost:4000/">More ›</a>
+              <a href="http://localhost:4000/about_us/">More›</a>
             </p>
           </div><!-- /.large-6.columns -->
 
@@ -579,7 +586,7 @@
             
               <li><a href="http://github.com/vrutten" target="_blank" class="icon-github" title="contact the developper :) "></a></li>
             
-              <li><a href="https://www.tripadvisor.com/Attraction_Review-g488109-d2343667-Reviews-Atlas_Morocco-Imlil_Marrakech_Tensift_El_Haouz_Region.html" target="_blank" class="icon-mail" title="trip advisor"></a></li>
+              <li><a href="https://www.tripadvisor.com/Attraction_Review-g488109-d2343667-Reviews-Atlas_Morocco-Imlil_Marrakech_Tensift_El_Haouz_Region.html" target="_blank" class="icon-soundcloud" title="trip advisor"></a></li>
             
             </ul>
           </section>
