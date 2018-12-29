@@ -1,0 +1,22 @@
+- menu_name: "Thanks"
+
+- name: "Developped by Virginia Rutten"
+  url: http://github.com/vrutten
+  # class: "network-entypo"
+  title: "meet the developper"
+
+# - name: "Built on Foundation"
+#   url: "http://foundation.zurb.com/"
+#   class: "services-newsletter"
+#   title: "Built on Foundation"
+
+- name: "Images by Rachid"
+  # url: "http://unsplash.com/"
+  # class: "rss-link"
+  title: "Images by Rachid"
+#
+# - name: "Using Backstretch by Scott Robbin"
+#   url: "http://srobbin.com/jquery-plugins/backstretch/"
+#   class: "sitemap-link"
+#   title: "Using Backstretch by Scott Robbin"
+#

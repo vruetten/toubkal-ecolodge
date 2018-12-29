@@ -1,0 +1,18 @@
+- menu_name: "Services"
+
+- name: "Contact"
+  url: "/contact/"
+  title: "Contact"
+#
+- name: "Atlas Morocco"
+  url: "http://www.atlasmorocco.co.uk/"
+  title: "sister trekking company"
+
+#
+# - name: "Atom"
+#   url: "/atom.xml"
+#   title: "Subscribe to Atom Feed"
+#
+# - name: "sitemap.xml"
+#   url: "/sitemap.xml"
+#   title: "Sitemap for Google Webmaster Tools"
