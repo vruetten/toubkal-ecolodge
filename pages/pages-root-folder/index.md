@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: widget-1-302x182_raw.jpg
 widget1:
   title: "Accommodation"
   url: '/accommodation/'
@@ -21,7 +21,7 @@ widget2:
 widget3:
   title: "Find us"
   url: '/location/'
-  image: widget-github-303x182.jpg
+  image: widget-1-302x182.jpg
   text: 'Enjoy sumptuous traditional Berber dishes prepared with fresh ingredients sourced from local farmers and local markets, which will leave your palate satisfied.'
 #
 # Use the call for action to show a button on the frontpage
