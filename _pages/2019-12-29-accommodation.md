@@ -2,29 +2,28 @@
 layout: page
 sidebar: right
 title:  "Rooms and Services"
-teaser: "We offer a range of rooms to meet your needs"
+teaser: "We offer a range of rooms to meet your needs.
+Families, couples or single explorers, all are welcome."
 breadcrumb: true
 categories:
     - accommodation
-image:
-    thumb: gallery-example-2-thumb.jpg
-    title: gallery-example-2.jpg
-    caption: a room with a view
+
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "bed.jpg"
    tags:
        - accommodation
 permalink: /accommodation/
 ---
 
 
-Select the room which best suits your needs or we can help you choose. All rooms comes with service.
+### Mountain view room
+<br>
+![Double room]({{site.urlimg }}/double_room.jpg){:class="img-responsive"}
 
+### Family room
+<br>
+![Family room]({{site.urlimg }}/family_room.jpg){:class="img-responsive"}
 
-## Traditional Foods
-Enjoy sumptuous traditional Berber dishes prepared with fresh ingredients sourced from local farmers and local markets, which will leave your palate satisfied
-
-![Example dinner]({{site.urlimg }}/header_drop.jpg){:class="img-responsive"}
 
 
 

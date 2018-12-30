@@ -6,6 +6,10 @@
   url: "/accommodation/"
   side: left
 
+- title: "Traditional food"
+  url: "/food/"
+  side: left
+
 - title: "Activities"
   url: "/activities/"
   side: left
