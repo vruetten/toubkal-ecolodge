@@ -27,7 +27,7 @@ permalink: /accommodation/
 
 
 
-[Send us email]({{ site.baseurl }}/contact/) if you have any questions.
+##### Don't hesitate to [send us email]({{ site.baseurl }}/contact/) if you have any questions.
 
 ## Activities to enjoy during your stay:
 {: .t60 }

@@ -14,17 +14,19 @@ widget1:
   text: 'Located in the heart of the valley, come here for a perfect escape and experience a life in nature like never before.'
 
 widget2:
+  title: "Traditional food"
+  url: '/food/'
+  image: patio_food.jpg
+  text: 'Enjoy sumptuous traditional Berber dishes prepared with fresh ingredients sourced from local farmers and local markets, which will leave your palate satisfied.'
+
+widget3:
   title: "Activities"
   url: '/activities/'
-  text: 'In search of extreme experiences or replenishing moments amongst nature? We cater the activities to you and your families desire. Enjoy of full day trek, a guided hikes or enjoy a ballade with mules.
+  text: 'Enjoy of full day trek, a guided hikes or a relaxed ballade with mules.
   Read feedback from our guests to get a real sense of what lies ahead.'
   image: raw.jpg
 
-widget3:
-  title: "Find us"
-  url: '/location/'
-  image: patio.jpg
-  text: 'Enjoy sumptuous traditional Berber dishes prepared with fresh ingredients sourced from local farmers and local markets, which will leave your palate satisfied.'
+
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -37,7 +39,7 @@ widget3:
 #
 callforaction:
   url: '/contact/'
-  text: Any questions? Please send us an email
+  text: Any questions? Don't hesitate to send us an email
   style: alert
 permalink: /index.html
 #
@@ -47,6 +49,8 @@ permalink: /index.html
 homepage: true
 breadcrumb: true
 ---
+<!-- ![mountain_teamaking]({{site.urlimg }}/mountain_teamaking.jpeg){:class="img-responsive"} -->
+
   <!-- video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>' -->
 
 <!-- <div id="videoModal" class="reveal-modal large" data-reveal="">

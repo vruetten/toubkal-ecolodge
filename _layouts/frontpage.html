@@ -83,7 +83,7 @@ format: frontpage
 
     <div class="row">
         <div class="medium-6 columns">
-            {% for post in site.posts limit:1 %}
+            {% for post in site.posts limit:2 %}
             {% if post.subheadline %}<p class="subheadline">{{ post.subheadline }}</p>{% endif %}
             <h2><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
             <p>
@@ -107,7 +107,6 @@ format: frontpage
 * Finally, if there is content, spit it out.
 *
 {% endcomment %}
-
 <div class="row">
     {{ content }}
 </div><!-- /.row -->

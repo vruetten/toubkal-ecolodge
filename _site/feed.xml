@@ -12,10 +12,10 @@
 				<title>Trekking</title>
 				<link>http://localhost:4000/activities/trekking/</link>
 				<pubDate>Sat, 29 Dec 2018 00:00:00 +0100</pubDate>
-				<description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images//summitguest.jpeg&quot; alt=&quot;Family room&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;getting-you-to-the-top&quot;&gt;Getting you to the top.&lt;/h3&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images//summitguest.jpeg&quot; alt=&quot;summitguest&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;getting-you-to-the-top&quot;&gt;Getting you to the top&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images//mountain_teamaking.jpeg&quot; alt=&quot;Family room&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images//mountain_teamaking.jpeg&quot; alt=&quot;mountain_teamaking&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 class=&quot;t60&quot; id=&quot;other-adventures-to-explore&quot;&gt;Other adventures to explore:&lt;/h2&gt;
 
@@ -23,6 +23,10 @@
 
   
 
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/activities/trekking/&quot;&gt;&lt;strong&gt;Trekking&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/activities/hikes/&quot;&gt;&lt;strong&gt;Camel and Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -42,12 +46,16 @@
 
 &lt;p&gt;&lt;img src=&quot;http://localhost:4000/images//teamlove.jpeg&quot; alt=&quot;Family room&quot; class=&quot;img-responsive&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 class=&quot;t60&quot; id=&quot;other-posts-you-might-like&quot;&gt;Other posts you might like&lt;/h2&gt;
+&lt;h2 class=&quot;t60&quot; id=&quot;other-posts-you-might-like&quot;&gt;Other posts you might like:&lt;/h2&gt;
 
 &lt;ul class=&quot;side-nav&quot;&gt;
 
   
 
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/activities/trekking/&quot;&gt;&lt;strong&gt;Trekking&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/activities/hikes/&quot;&gt;&lt;strong&gt;Camel and Mule Hikes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
     
 
   
@@ -63,7 +71,6 @@
 				<pubDate>Thu, 27 Dec 2018 00:00:00 +0100</pubDate>
 				<description>&lt;!-- You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% include gallery %}`.
 &lt;!--more--&gt;
-&lt;p&gt;–&amp;gt;&lt;/p&gt;
 
 &lt;div&gt;
 	&lt;ul class=&quot;clearing-thumbs small-block-grid-4&quot; data-clearing=&quot;&quot;&gt;
@@ -71,42 +78,42 @@
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-0.jpg&quot;&gt;&lt;img data-caption=&quot;view from Toubkal Ecolodge&quot; src=&quot;http://localhost:4000/images/gallery-example-0-thumb.jpg&quot; alt=&quot;view from Toubkal Ecolodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/family_room.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/family_room-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-2.jpg&quot;&gt;&lt;img data-caption=&quot;view from EcoLodge&quot; src=&quot;http://localhost:4000/images/gallery-example-2-thumb.jpg&quot; alt=&quot;view from EcoLodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/double_room.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/double_room-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-3.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-3-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/bed.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/bed-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-4.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-4-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/mountain_tea.jpeg&quot;&gt;&lt;img data-caption=&quot;view from Toubkal Ecolodge&quot; src=&quot;http://localhost:4000/images/mountain_tea-thumb.jpeg&quot; alt=&quot;view from Toubkal Ecolodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-5.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-5-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/food2.jpeg&quot;&gt;&lt;img data-caption=&quot;view from EcoLodge&quot; src=&quot;http://localhost:4000/images/food2-thumb.jpeg&quot; alt=&quot;view from EcoLodge&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-6.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-6-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/patio_food.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/patio_food-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-7.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-7-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/teamlove.jpeg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/teamlove-thumb.jpeg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 		
 		
 		
-		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/gallery-example-8.jpg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/gallery-example-8-thumb.jpg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/camels.jpeg&quot;&gt;&lt;img data-caption=&quot;Great images by Unsplash.com&quot; src=&quot;http://localhost:4000/images/camels-thumb.jpeg&quot; alt=&quot;Great images by Unsplash.com&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
 		
 	&lt;/ul&gt;
 &lt;/div&gt;

@@ -4,10 +4,10 @@ title: "Get in touch"
 teaser: "If you have any queries, please don't hesitate to contact us."
 permalink: "/contact/"
 header:
-   image_fullwidth: "header_roadmap_2.jpg"
+   image_fullwidth: "patio_food.jpg"
 breadcrumb: true
 ---
-And if you have stayed with us, we hope you enjoyed it - please describe how you liked your stay here for other guests and do give us feedback: we're always looking for ways to improve!
+And if you have stayed with us, we hope you enjoyed it - please tell us how you liked your stay here for other guests and do give us feedback: we're always looking for ways to improve!
 
 ### Email:
 [toubkalecolodge@gmail.co.uk](mailto:toubkalecolodge@gmail.co.uk)
