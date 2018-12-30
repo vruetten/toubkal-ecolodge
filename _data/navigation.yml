@@ -15,6 +15,10 @@
   - title: "mule hikes"
     url: "/activities/hikes/"
 
+- title: Rates and Bookings
+  url: "/rates/"
+  side: left
+
 - title: "Gallery"
   url: "/gallery/"
   side: left
@@ -22,6 +26,7 @@
 - title: About us
   url: "/about_us/"
   side: left
+
 
 
 

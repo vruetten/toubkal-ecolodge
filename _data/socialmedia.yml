@@ -8,14 +8,18 @@
   class: icon-soundcloud
   title: "trip advisor"
 
+- name: Facebook
+  url: https://www.facebook.com/riadToubkalecolodge/?ref=search&__tn__=%2Cd%2CP-R&eid=ARCmBsu2aVGPWQz9K7aNsmTO4e3Tp1gBREeTbHH5tc-4Pqt10BNHdBOSzEYfQlnU6jp1NM3Jws0f-HJf
+  class: icon-facebook
+  title: "connect with us via facebook"
+
+- name: Instagram
+  url: https://www.instagram.com/explore/locations/148462662449106/toubkal-ecolodge-imlil?hl=tl
+  class: icon-instagram
+  title: "Follow us on Instagram"
 
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
-
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Paypal
+  url: https://www.paypal.com/uk/webapps/mpp/paypal-popup
+  class: icon-price-tag
+  title: ""
