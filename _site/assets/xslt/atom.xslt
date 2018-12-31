@@ -155,12 +155,6 @@
 
           
           
-        
-
-              
-
-          
-          
             
             
               <li class="divider"></li>
@@ -274,21 +268,6 @@
             
             
               <li><a  href="http://localhost:4000/rates/">Rates and Bookings</a></li>
-              <li class="divider"></li>
-
-            
-            
-          
-        
-
-              
-
-          
-          
-
-            
-            
-              <li><a  href="http://localhost:4000/gallery/">Gallery</a></li>
               <li class="divider"></li>
 
             

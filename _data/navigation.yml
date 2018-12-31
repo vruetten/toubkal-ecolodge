@@ -23,9 +23,9 @@
   url: "/rates/"
   side: left
 
-- title: "Gallery"
-  url: "/gallery/"
-  side: left
+# - title: "Gallery"
+#   url: "/gallery/"
+#   side: left
 
 - title: About us
   url: "/about_us/"
