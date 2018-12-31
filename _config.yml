@@ -27,12 +27,12 @@ email: gin.rutten@gmail.com
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 #########################
-# url: 'https://vrutten.github.io'
-# baseurl: '/toubkal-ecolodge'
+url: 'https://vrutten.github.io'
+baseurl: '/toubkal-ecolodge'
 
-url: 		'http://localhost:4000'
-baseurl: 	''
-urlimg: 	'http://localhost:4000/images/'
+# url: 		'http://localhost:4000'
+# baseurl: 	''
+# urlimg: 	'http://localhost:4000/images/'
 
 
 # This is for the editing function in _/includes/improve_content
@@ -45,9 +45,9 @@ urlimg: 	'http://localhost:4000/images/'
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-# urlimg: 'https://vrutten.github.io/toubkal-ecolodge/images/'
+urlimg: 'https://vrutten.github.io/toubkal-ecolodge/images/'
 
-urlimg: 'http://localhost:4000/images/'
+# urlimg: 'http://localhost:4000/images/'
 
 # Logo size is 600x80 pixels
 logo: "logo.png"
