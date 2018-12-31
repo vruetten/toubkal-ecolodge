@@ -15,15 +15,14 @@ header:
 permalink: /accommodation/
 ---
 
-
 ### Mountain view room
+<!-- <img class="contain" src="{{site.urlimg }}/bed.jpg" > -->
 <br>
 ![Double room]({{site.urlimg }}/double_room.jpg){:class="img-responsive"}
 
 ### Family room
 <br>
 ![Family room]({{site.urlimg }}/family_room.jpg){:class="img-responsive"}
-
 
 
 
