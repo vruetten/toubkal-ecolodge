@@ -22,9 +22,10 @@ widget2:
 widget3:
   title: "Activities"
   url: '/activities/'
+  image: camels.jpeg
   text: 'Enjoy of full day trek, a guided hikes or a relaxed ballade with mules.
   Read feedback from our guests to get a real sense of what lies ahead.'
-  image: raw.jpg
+
 
 
 #
