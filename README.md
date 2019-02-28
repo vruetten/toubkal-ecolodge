@@ -1,7 +1,8 @@
 
-[![Click here](https://vrutten.github.io/toubkal-ecolodge/)
 
+[Click here for the site](https://vrutten.github.io/toubkal-ecolodge/)
 
+https://vrutten.github.io/toubkal-ecolodge/
 
 
 ## A Responsive Jekyll Theme: *Feeling Responsive*
